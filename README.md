@@ -6,7 +6,7 @@ This is a streamy web application, which allows user to sign in with Google, cre
 ## How to run the application
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-Clone the repo and open index.html in a web browser
+Clone the repo and open localhost:3000 in a web browser
 ```
 git clone https://github.com/johnnysea/streamy-app.git
 ```
